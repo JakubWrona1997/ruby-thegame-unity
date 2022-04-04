@@ -27,3 +27,8 @@ Few screenshots from the game.
 ![Screen2](./img/ruby_img2.png)
 
 ![Screen3](./img/ruby_img3.png)
+
+## Authors
+* Me
+* Marek Jakubiec [shirve](https://github.com/shirve)
+* Dariusz Cebrat [holygwent](https://github.com/holygwent)
